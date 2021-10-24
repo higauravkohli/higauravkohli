@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @higauravkohli
-- 👀 I’m interested in ...
+- 👀 I’m interested in Programming Contracts
 - 🌱 I’m currently learning ML, AI, Python, Go
 - 💞️ I’m looking to collaborate on Algorithms
 - 📫 How to reach me mailto:higauravkohli@gmail.com
